@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anton Sokolkin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css, JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html, css, JS, React
 - 📫 You can reach me by email ansokolkin@gmail.com
 
 <!---
