@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton Sokolkin
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css, JS, React
+- 👀 I’m interested in Python
+- 🌱 I write in Python, JS, PHP
 - 📫 You can reach me by email ansokolkin@gmail.com
 
 <!---
